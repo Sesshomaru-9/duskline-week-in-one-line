@@ -9,7 +9,7 @@ import os
 import sys
 import tempfile
 
-ENTRY = "Entered 91 bounties, won zero, banked nine cents I can't even claim \u2014 best week ever?"
+ENTRY = "91 bounties entered, zero won, nine cents banked yet still unclaimable \u2014 best week ever?"
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 
